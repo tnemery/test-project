@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\QuantumSpinner\Assets\Scripts\LoadExperiments.cs">
+    <Files>
+      <File FileName="..\..\..\QuantumSpinner\Assets\Scripts\AllMathData.cs" Line="297" Column="49" />
+      <File FileName="..\..\..\QuantumSpinner\Assets\Scripts\UpdateMagnetStrength.cs" Line="22" Column="70" />
+      <File FileName="..\..\..\QuantumSpinner\Assets\Scripts\Pathing.cs" Line="28" Column="18" />
+      <File FileName="..\..\..\QuantumSpinner\Assets\Scripts\MainGUI.cs" Line="88" Column="8" />
+      <File FileName="..\..\..\QuantumSpinner\Assets\Scripts\MagnetAxisChange.cs" Line="38" Column="44" />
+      <File FileName="..\..\..\QuantumSpinner\Assets\Resources\L4P1a.txt" Line="14" Column="8" />
+      <File FileName="..\..\..\QuantumSpinner\Assets\Scripts\LoadExperiments.cs" Line="29" Column="44" />
+      <File FileName="..\..\..\QuantumSpinner\Assets\Scripts\CompileUserList.cs" Line="17" Column="3" />
+      <File FileName="..\..\..\QuantumSpinner\Assets\Scripts\SaveExperiment.cs" Line="152" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
